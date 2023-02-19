@@ -61,12 +61,12 @@ link: https://masum-osman.github.io/
 - **🏗️ Code editors:**
  <a href="https://code.visualstudio.com/"><img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" height=25></a>
   
-#### What's interesting about me?  
+<!-- #### What's interesting about me?  
   - 😎 I am an **ambivert** and I can speak **english** in multiple accents.
   - 🧐 I love to be very **precise** and **thorough**. I hate **procrastinating**.
   - ✍️ I write about **why a certain code is written instead of what** in the comments.
   - ⏱️ I'm a **workaholic** and drink a lot of ☕ **coffee**.
-  - 😅 I just can't **resist the urge** to **explore** a new **tech** released in the **.NET** ecosystem.
+  - 😅 I just can't **resist the urge** to **explore** a new **tech** released in the **.NET** ecosystem. -->
 
 <!--Github Stats-->
 
