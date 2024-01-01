@@ -134,4 +134,10 @@ link: https://masum-osman.github.io/
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masum-osman&show_icons=true&locale=en" alt="masum-osman" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masum-osman&" alt="masum-osman" /></p>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Masum-Osman&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Masum-Osman&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Masum-Osman&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Masum-Osman&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Masum-Osman&theme=github)
+
 
