@@ -2,9 +2,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masum-osman&label=Profile%20views&color=0e75b6&style=flat" alt="masum-osman" /> </p>
 
 #### Biography
-This is me, I'm a software engineer. I have a special interest in Backend API Design and development, databases, and also some frontend works. 
+This is me, I'm a software engineer. I have a special interest in Backend API Design and development, databases, and also some frontend works.
 
-I love to live with Communication Protocols, Web Servers, Database Engineering, Proxies, Web Framework Runtime, and Message formats. 
+I love to live with **Communication Protocols**, **Web Servers**, **Database Engineering**, **Proxies**, **Web Framework Runtime**, and **Message formats**. 
 I've built, launched, and maintained web services, and have learned many lessons along the way. I'm flexible, proactive, and curious. I believe in the craft of software engineering.
 
 I love tackling challenges and I enjoy writing about them. I occasionally make myself available for contract work and consultancy.
@@ -28,24 +28,24 @@ You can reach me at osmanmasum.cs@gmail.com.
 
 #### Services Offered
 As a seasoned Senior Software Engineer, I offer a diverse range of professional services tailored to meet your software development needs. With a wealth of experience and expertise in the field, I provide the following services:
-- Application Development
-- Cloud Application Development
-- Cloud Management
-- Database Development
-- Enterprise Content Management
-- SaaS Development
-- Blogging
-- Technical Writing
-- Resume Writing
+- **Application Development**
+- **Cloud Application Development**
+- **Cloud Management**
+- **Database Development**
+- **Enterprise Content Management**
+- **SaaS Development**
+- **Blogging**
+- **Technical Writing**
+- **Resume Writing**
 
 #### What I'm doing?
-- 👨‍💻 Writing `Golang`, `NodeJS`, `Python`, `PHP`
+- 👨‍💻 Writing **Golang**, **NodeJS**, **Python**, **PHP**
 - 🌍 Mostly active on <a href="https://www.linkedin.com/in/masumosman/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height=20></a>.
 - 📚 Currently learning about **clean architecture**, **kubernetes**, **large scale system design**, and **technical pitch**.
 - 👯 Looking to collaborate on **Golang projects**.
 
 #### What I like to discuss about?
-- 💬 Ask me about `Programming`, `System Design`, `APIs`, `Scalability`, `Design Patterns`, `Data Structures`, `Coding speed hacks`, `Clean code`, `Requirement analysis`, and `Tech culture`.
+- 💬 Ask me about **Programming**, **System Design**, **APIs**, **Scalability**, **Design Patterns**, **Data Structures**, **Coding speed hacks**, **Clean code**, **Requirement analysis**, and **Tech culture**.
 
 #### Career Highlights
 - 🌟 Successfully led multiple high-impact projects from concept to completion.
@@ -55,10 +55,15 @@ As a seasoned Senior Software Engineer, I offer a diverse range of professional 
 - 📈 Contributed to significant performance improvements and cost reductions through innovative engineering solutions.
 
 #### Certifications
-- 🏅 AWS Certified Solutions Architect
-- 🏅 Google Cloud Professional Data Engineer
-- 🏅 Certified Kubernetes Administrator (CKA)
-- 🏅 Microsoft Certified: Azure Solutions Architect Expert
+- 🏅 **gRPC Master Class: Build Modern API & Microservices - Udemy**
+- 🏅 **Amazon Web Services Solutions Architect - Associate. - Tecognize Training**
+- 🏅 **System Design: Level 1. - Tecognize Training**
+- 🏅 **System Design: Level 2. - Tecognize Training**
+- 🏅 **Using the Serverless Framework with Node.js on AWS. - Pluralsight**
+- 🏅 **Service-Oriented Architecture. - Coursera**
+- 🏅 **Server-side Development with NodeJS, Express, and MongoDB. - Coursera**
+- 🏅 **Docker Mastery: with Kubernetes +Swarm from a Docker Captain**
+- 🏅 **Cracking The Coding Interview with LeetCode**
 
 
 #### Open Source Contributions
@@ -75,11 +80,11 @@ As a seasoned Senior Software Engineer, I offer a diverse range of professional 
 - 💡 Advocate for diversity and inclusion in the tech industry.
 
 #### Personal Interests
-- 📸 Photography: Capturing the beauty of everyday moments.
-- 🎨 Art: Exploring creative expression through various mediums.
-- 🥋 MMA: Training in mixed martial arts for fitness and discipline.
-- 📚 Reading: Continuously learning through books and articles.
-- 🎥 Movies: Enjoying a wide range of genres and storytelling styles.
+- 📸 **Photography:** Capturing the beauty of everyday moments.
+- 🎨 **Art:** Exploring creative expression through various mediums.
+- 🥋 **MMA:** Training in mixed martial arts for fitness and discipline.
+- 📚 **Reading:** Continuously learning through books and articles.
+- 🎥 **Movies:** Enjoying a wide range of genres and storytelling styles.
 
 ---
 
