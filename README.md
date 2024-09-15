@@ -87,5 +87,33 @@ As a seasoned Senior Software Engineer, I offer a diverse range of professional 
 - 🎥 **Movies:** Enjoying a wide range of genres and storytelling styles.
 
 ---
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/masum-osman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="masum-osman" height="30" width="40" /></a>
+<a href="https://dev.to/masumosman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="masumosman" height="30" width="40" /></a>
+<a href="https://twitter.com/masum_osman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="masum_osman" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/osman-gani-khan-masum-b36826b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osman-gani-khan-masum-b36826b9" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/7086610" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7086610" height="30" width="40" /></a>
+<a href="https://fb.com/100002783125800" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100002783125800" height="30" width="40" /></a>
+<a href="https://medium.com/@masum26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@masum26" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ogkmasum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ogkmasum" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/masum26" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="masum26" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/masumosman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="masumosman" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@ogkmasum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ogkmasum" height="30" width="40" /></a>
+</p>
+
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masum-osman" alt="masum-osman" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masum-osman&show_icons=true&locale=en" alt="masum-osman" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=masum-osman&" alt="masum-osman" /></p>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Masum-Osman&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Masum-Osman&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Masum-Osman&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Masum-Osman&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Masum-Osman&theme=github)
+---
 
 Feel free to reach out for collaborations, consulting, or just a tech chat! Let's build something amazing together.
+
