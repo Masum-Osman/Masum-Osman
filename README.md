@@ -14,8 +14,8 @@ You can reach me at osmanmasum.cs@gmail.com.
 [Check out my portfolio](https://masum-osman.github.io/)
 
 #### Specialist At:
-- **Programming Languages:** Go, TypeScript, Python, PHP, JavaScript, C, C++, Java, Ruby, Bash, SQL, Prolog, Assembly, HTML/CSS
-- **Web Frameworks and Technologies:** Node.js, Express, NestJS, Spring Boot, Flask, React, jQuery, Angular, Vue.js, WordPress, Django, Laravel, FastAPI, Gatsby
+- **Programming Languages:** Go, TypeScript, Python, PHP, JavaScript, C, C++, Java, Ruby, Bash, SQL, Prolog, Assembly
+- **Web Frameworks and Technologies:** Node.js, Express, NestJS, Spring Boot, Flask, React, jQuery, Angular, Vue.js, WordPress, Django, Laravel, FastAPI, Gatsby, HTML/CSS
 - **Databases:** MySQL, PostgreSQL, Redis, MongoDB, InfluxDB, SQLite3, Neo4j, Elasticsearch
 - **Cloud Platforms:** AWS, Google Cloud, Firebase, Heroku, Netlify, Linode/Akamai, Managed Hosting
 - **Other Frameworks and Libraries:** Apache Airflow, Pandas, RabbitMQ, TensorFlow, Scikit-Learn, OpenGL, Ionic, Uno Platform
