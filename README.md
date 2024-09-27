@@ -121,6 +121,11 @@ As a seasoned Senior Software Engineer, I offer a diverse range of professional 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Masum-Osman&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Masum-Osman&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Masum-Osman&theme=github)
+[![](https://github-readme-stats.vercel.app/api?username=Masum-Osman&show_icons=true&border_radius=16&line_height=27&hide_border=true&&icon_color=FFA500&title_color=FFA500&bg_color=12181B&rank_icon=percentile&count_private=true&include_all_commits=true&theme=dark#gh-dark-mode-only)](https://github.com/Masum-Osman/github-readme-stats#gh-dark-mode-only)
+[![](https://github-readme-stats.vercel.app/api?username=Masum-Osman&show_icons=true&border_radius=16&line_height=27&icon_color=FFA500&title_color=FFA500&rank_icon=percentile&count_private=true&include_all_commits=true&theme=default#gh-light-mode-only)](https://github.com/Masum-Osman/github-readme-stats#gh-light-mode-only) 
+&nbsp;&nbsp;   [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Masum-Osman&langs_count=3&border_radius=16&hide_border=true&text_bold=true&title_color=FFA500&bg_color=12181B&include_all_commits=true&count_private=true&hide=html,css,php,c&theme=dark#gh-dark-mode-only)](https://github.com/Masum-Osman/github-readme-stats#gh-dark-mode-only)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Masum-Osman&langs_count=3&border_radius=16&text_bold=true&title_color=FFA500&include_all_commits=true&count_private=true&hide=html,css,php,c&theme=default#gh-light-mode-only)](https://github.com/Masum-Osman/github-readme-langs_count#gh-light-mode-only)
+
 ---
 
 Feel free to reach out for collaborations, consulting, or just a tech chat! Let's build something amazing together.
